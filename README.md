@@ -1,0 +1,2 @@
+# SoftwareCopyright
+标准格式软件著作权申请材料的LaTeX文档类
